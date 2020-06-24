@@ -154,7 +154,7 @@ salt whose fixed length is `SALTBYTES` bytes.
 #### Algorithm Details
 
 * Algorithm: scrypt
-* `N = 1<<20`
+* `N = 1<<15`
 * `r = 8`
 * `p = 1`
 * `OUTPUTBYTES = 32`
