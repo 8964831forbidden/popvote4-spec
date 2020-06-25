@@ -3,7 +3,7 @@
 POPVote is a simple, pragmatic, and secure system for public voting onsite at physical polling
 stations and/or offsite online voting.
 
-It is created by the Public Opinion Research Institute (POP) at the Hong Kong Public Opinion Research Institute (HKPORI) for large-scale electronic polling. It is designed for non-government polling as a means to measure and express public opinions in different regimes. In view of its politically-sensitive nature, the system must guarantee strong privacy to the voters.
+It is created by the Public Opinion Program (POP) at the Hong Kong Public Opinion Research Institute (HKPORI) for large-scale electronic polling. It is designed for non-government polling as a means to measure and express public opinions in different regimes. In view of its politically-sensitive nature, the system must guarantee strong privacy to the voters.
 
 The current version is designed and developed for onsite voting at physical stations set up for the Primary Election of the Hong Kong Democrats for the 2020 Legislative Council Election, but the system is designed to be useful beyond that and to support voting over the Internet like previous POPVote operation (e.g. the 2012 and 2014 Civil Referendum Projects).
 
